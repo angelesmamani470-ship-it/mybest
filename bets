@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Día de Hot Wheels</title>
+  <style>
+    body { 
+      margin: 0; 
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+      height: 100vh; 
+      background: linear-gradient(120deg, #001F54, #034078); 
+      color: white; 
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    .container {
+      max-width: 600px;
+    }
+    img {
+      width: 200px;
+      margin-bottom: 20px;
+    }
+    h1 { color: #FFD700; }
+    p { font-size: 20px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="hotwheels.png" alt="Hot Wheels">
+    <h1>Un detalle que acelera sonrisas</h1>
+    <p>Eres la chispa que convierte lo cotidiano en aventura.</p>
+    <p>Tu risa acelera los mejores planes.</p>
+    <p>A tu lado, cualquier camino se siente como una pista de diversión.</p>
+  </div>
+</body>
+</html>
